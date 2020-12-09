@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 
+geckodriver
 # Created by https://www.toptal.com/developers/gitignore/api/virtualenv,jupyternotebooks,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=virtualenv,jupyternotebooks,macos
 
